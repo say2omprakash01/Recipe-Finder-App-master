@@ -1,0 +1,9 @@
+/* global.css */
+
+body {
+    background-color: black; /* Set the background color to black */
+    color: white; /* Set text color to white */
+    margin: 0; /* Remove default margin to cover the whole screen */
+    padding: 0; /* Remove default padding to cover the whole screen */
+  }
+  
